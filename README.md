@@ -1,62 +1,49 @@
-## 🧑‍💻 Senior Fullstack Engineer (Frontend Focus)
+# 👋 Hi, I’m consensysstar
 
-Hi, I’m **consensysstar**, a passionate **Senior Fullstack Engineer** with a strong frontend focus and over **7+ years of experience** building **real-time, scalable applications** - from multiplayer games to blockchain-powered platforms.
-I specialize in delivering **dynamic, high-performance user experiences** while architecting robust backend systems that scale to millions of users.
-
----
-
-### 🚀 About Me
-
-* 🎮 **Interactive Web & Game Development**: Proven expertise in **live-service multiplayer games** and **real-time web applications**.
-* 🌐 **Fullstack Problem Solver**: Strong **frontend** foundation paired with solid **backend engineering** for seamless end-to-end delivery.
-* 💡 **Product-Oriented**: Skilled at navigating **ambiguous product lifecycles**, collaborating with design teams, and translating vision into polished, production-ready features.
-* ⚡ **Blockchain Enthusiast**: Experienced in building decentralized apps and integrating **Solana/Ethereum smart contracts** into web experiences.
+I’m a **Senior Fullstack Engineer** with a love for building **real-time, interactive web apps and multiplayer games**.
+Over the past few years I’ve worked across startups and ambitious projects, turning complex ideas into fast, scalable products.
+I lean **frontend** but enjoy owning the **full stack**—from elegant UIs to resilient backend systems.
 
 ---
 
-### 🛠️ Core Skills
+### 🕹️ What I Do
 
-#### **Frontend Development**
-
-* **React / Next.js / TypeScript** – Modern, scalable frontend architectures
-* **Dynamic Animations** – Complex, fluid animations using **Rive**, **Framer Motion**, and **GSAP**
-* **Real-time UX** – Optimized rendering and interactions for multiplayer and live applications
-
-#### **Backend Engineering**
-
-* **Node.js / Express** – High-performance APIs and microservices
-* **Kafka / RabbitMQ** – Event-driven architectures for real-time updates
-* **MongoDB / PostgreSQL** – Efficient data modeling and database design
-
-#### **Blockchain / Web3**
-
-* **Solana / Ethereum** – Smart contract integration and on-chain logic
-* **Web3.js / ethers.js** – Wallet connection, transaction handling, NFT integration
-* **Decentralized Apps (dApps)** – End-to-end design of secure blockchain experiences
-
-#### **Infrastructure & Tools**
-
-* **Docker / Kubernetes** – Containerized deployment and scaling
-* **CI/CD Pipelines** – GitHub Actions, Jenkins, and automated testing
-* **Cloud Platforms** – AWS, GCP, or Azure for scalable hosting
+* Craft **beautiful, responsive interfaces** with **React**, **Next.js**, and **TypeScript**
+* Build **real-time experiences** using **WebSockets**, event-driven backends, and distributed systems
+* Bring apps to life with **animations** (Framer Motion, GSAP, Rive) that feel smooth and natural
+* Work with **Node.js**, **Kafka**, and **Mongo/Postgres** to power data-heavy, high-traffic services
+* Experiment with **blockchain tech** (Solana, Ethereum) to create on-chain games and dApps
 
 ---
 
-### 🏆 Career Highlights
+### 🔧 Tech I Use (and love)
 
-* 🚀 Delivered **multiplayer games** and **real-time platforms** serving thousands of concurrent users with sub-second latency.
-* ✨ Built **immersive animation systems** to create engaging user experiences across web and mobile.
-* 📈 Designed and scaled **event-driven pipelines** using Kafka for high-throughput live applications.
-* 🔗 Integrated **blockchain technology** (Solana/Ethereum) to power NFT marketplaces and decentralized gaming economies.
+`React` · `Next.js` · `Node.js` · `TypeScript` · `Kafka` · `MongoDB` · `PostgreSQL` · `Rive` · `GSAP` · `WebSockets` · `Solana` · `Ethereum` · `Docker` · `Kubernetes` · `GraphQL` · `TailwindCSS`
 
 ---
 
-### ⚡ Tech Stack
+### 🌱 A Little About Me
 
-`React` • `Next.js` • `Node.js` • `TypeScript` • `Kafka` • `MongoDB` • `PostgreSQL` • `Rive` • `GSAP` • `WebSockets` • `Solana` • `Ethereum` • `Docker` • `Kubernetes` • `GraphQL` • `TailwindCSS`
+I enjoy working on products where **speed meets creativity**—games, interactive platforms, anything that challenges what the web can do.
+I thrive in small, collaborative teams, where design and engineering come together to ship great things.
+Outside of code, you’ll probably find me **testing new games**, contributing to open-source, or chasing down a perfect flat white. ☕
 
 ---
 
-> *I thrive on building interactive, blockchain-ready applications and multiplayer experiences that redefine what’s possible in web and game development.*
+### 📫 Let’s Connect
+
+* 🌐 [Portfolio](https://github.com/consensysstar)
+* 🕹️ [GitHub](https://github.com/consensysstar)
+
+---
+
+### ⚡ Fun Fact
+
+I once stayed up all night debugging a multiplayer game only to realize… it was a single missing **semicolon**.
+(Still worth it. Players logged in the next morning without a hitch.)
+
+---
+
+> *Always learning. Always shipping.*
 
 ---

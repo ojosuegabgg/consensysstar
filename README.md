@@ -47,3 +47,4 @@ I once stayed up all night debugging a multiplayer game only to realize… it wa
 > *Always learning. Always shipping.*
 
 ---
+<p>Thank you your invitation</p>

@@ -18,7 +18,7 @@ I lean **frontend** but enjoy owning the **full stack**—from elegant UIs to re
 
 ### 🔧 Tech I Use (and love)
 
-`React` · `Next.js` · `Node.js` · `TypeScript` · `Kafka` · `MongoDB` · `PostgreSQL` · `Rive` · `GSAP` · `WebSockets` · `Solana` · `Ethereum` · `Docker` · `Kubernetes` · `GraphQL` · `TailwindCSS`
+`HTML` · `CSS` · `TypeScript` · `JavaScript` · `React.js` · `Next.js` . `Angular` . `Vue.js` . `Nuxt.js` · `TailwindCSS` · `Chakra UI` . `MUI` · `Bootstrap` . `SCSS/SASS`
 
 ---
 

